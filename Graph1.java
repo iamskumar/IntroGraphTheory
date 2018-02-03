@@ -1,1 +1,0 @@
-/* This is the first graph program to my carrer */
